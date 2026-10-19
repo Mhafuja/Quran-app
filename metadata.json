@@ -1,0 +1,6 @@
+{
+  "name": "Quran Reader",
+  "description": "পবিত্র কুরআন শরীফের ১১৪টি সুরা, আরবি আয়াত, বাংলা উচ্চারণ, অর্থ ও অডিও তিলাওয়াত।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
