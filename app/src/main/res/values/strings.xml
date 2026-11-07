@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quran Reader</string>
+    <string name="title_surahs">সুরার তালিকা</string>
+    <string name="title_bookmarks">বুকমার্ক</string>
+    <string name="title_settings">সেটিংস</string>
+    <string name="search_surah_hint">নাম বা নম্বর দিয়ে সুরা খুঁজুন…</string>
+    <string name="filter_all">সকল (১১৪)</string>
+    <string name="filter_makki">মাক্কী</string>
+    <string name="filter_madani">মাদানী</string>
+    <string name="ayah_label">আয়াত</string>
+    <string name="pronunciation_badge">উচ্চারণ</string>
+    <string name="translation_badge">বাংলা অর্থ</string>
+    <string name="play_recitation">তিলাওয়াত শুনুন</string>
+    <string name="pause_recitation">বিরতি</string>
+    <string name="copied_to_clipboard">আয়াত কপি করা হয়েছে</string>
+    <string name="show_pronunciation_title">বাংলা উচ্চারণ প্রদর্শন</string>
+    <string name="show_pronunciation_desc">আরবি পড়তে সমস্যা হলে বাংলা অর্থ এর উপরে বাংলা উচ্চারণ দেখুন</string>
+    <string name="font_size_arabic">আরবি ফন্ট সাইজ</string>
+    <string name="font_size_bengali">বাংলা ফন্ট সাইজ</string>
+</resources>
